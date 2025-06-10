@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Nicolas Caceres
 
 🎓 Ingeniero en Informática | 💻 Desarrollador Web & Móvil | ☁️ Entusiasta de la Nube (AWS)  
-📍 Basado en Chile | 🌱 Aprendiendo continuamente sobre DevOps, backend escalable y nuevas tecnologías
+📍 Nacido en Chile | 🌱 Aprendiendo continuamente sobre DevOps, backend escalable y nuevas tecnologías
 
 ---
 
